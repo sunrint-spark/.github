@@ -4,10 +4,7 @@
 AI 아이디어 스케치북
 
 
-
-
 ## 팀원
-팀명: 남영역화장실휴지한통다쓰는좌호빈
 
 - 백엔드, 프론트 - TAPIE Nective | [한유찬 (@rxlama7)](https://github.com/rxlama7)
 - 프론트 - TAPIE Nective | [김해린 (@haerin0303)](https://github.com/haerin0303)
